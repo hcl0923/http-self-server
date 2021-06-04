@@ -1,0 +1,7 @@
+
+t
+java:S1450
+"RRemove the "iis" field and declare it as a local variable in the relevant methods.(’Îø²ùÿÿÿÿ8ÅÔ¾¶/
+E	java:S108")Either remove or fill this block of code.(Ãôş•8ÅÔ¾¶/
+t
+java:S1450"RRemove the "oos" field and declare it as a local variable in the relevant methods.(ê¬åˆıÿÿÿÿ8ÅÔ¾¶/

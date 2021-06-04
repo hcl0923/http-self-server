@@ -1,0 +1,19 @@
+
+P
+java:S2755@"3Disable access to external entities in XML parsing.(ëÆç˜8·’Ü´/
+m
+java:S1192W"KDefine a constant instead of duplicating this literal "threadpool" 3 times.(€ì¨Åıÿÿÿÿ8İü‘¸/
+]	java:S125"<This block of commented-out lines of code should be removed.(Óº·Âúÿÿÿÿ8¼æªµ/
+v
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(éé‰8İÛûŒ€/
+O
+java:S1135"2Complete the task associated to this TODO comment.(´Í½8É–˜€/
+D
+java:S2189$""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ê’€/
+]	java:S125"<This block of commented-out lines of code should be removed.(’€ç½ÿÿÿÿÿ8üö´/
+O
+java:S1135'"2Complete the task associated to this TODO comment.(‹Â›£8âö¤€/
+O
+java:S1135="2Complete the task associated to this TODO comment.(‡ÚŠ8˜ÖıŒ€/
+T
+java:S1135C"2Complete the task associated to this TODO comment.(»©³Şûÿÿÿÿ8·’Ü´/
